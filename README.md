@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rakhmon Radjabov, a software engineer from Uzbekistan.
 - 👀 I’m interested in data science, distributed systems, and AI
 - 🌱 I’m currently learning distributed systems
-- 💞️ I’m looking to collaborate on large, worldwide projects to build better world
+- 💞️ I’m looking to collaborate on large, worldwide projects to build a better world
 - 📫 How to reach me radjabovrakhmon@gmail.com
 
 <!---
